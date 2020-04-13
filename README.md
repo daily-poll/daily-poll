@@ -1,4 +1,2 @@
-<script type="text/javascript" src="https://www.polljunkie.com/Scripts/embedder.js?v=1"></script>
-<script type="text/javascript">
-PollJunkie.show({"s":"daily-poll","width":"300","height":"300","code":"dxxotc","borderColor":"#44ADE9","barBgColor":"#44ADE9","fontColor":"#fff"});
-</script>
+<script type="text/javascript" src="https://host1.easypolls.net/ext/scripts/emPoll.js?p=5e93c98ee4b09a2d524ce3eb"></script><a class="OPP-powered-by" href="http://www.objectplanet.com/opinio/" style="text-decoration:none;"><div style="font: 9px arial; color: gray;">survey tools</div></a>
+<noscript>JavaScript is disabled!</noscript>
